@@ -1,3 +1,3 @@
 ### Personal Portfolio Site
-Redesign May 2021
+Redesigned in May 2021
 
